@@ -8,7 +8,7 @@ Get to this repo by typing in URL: **datapy.sage.codes**
 
 ### FAQ: 
 
-- WIFI: `Galvanize Guest Seattle` | Password: beapineapple
+- WIFI: `Galvanize Guest Denver Platte` | Password: beapineapple
 - Bathrooms: Behind you down the hall to the left
 - Kitchen outside back classroom door with Coffee & Tea!
 - Snacks + water in back of room
